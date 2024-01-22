@@ -1,0 +1,25 @@
+*{font-family: sans-serif;}
+body{background-color: rgb(243, 247, 252);}
+.container {
+    margin-top: 40px;
+    margin-left: 400px; 
+    margin-right:400px    ;
+    background-color: white;
+    padding: px;
+}
+.topcard,.para-div,.bigbutton {
+    background-color: rgb(203, 253, 253);padding: 8px; border: solid white 7px;font-size: 16px;
+}
+.topcard{
+    font-weight: 700;
+}
+.topcard,.para-div {
+    border-bottom: 0;
+}
+
+.buttontxt,.p1{margin-bottom:0}
+.p2{margin-top: 0;}
+.buttontxt{margin-top: 2px;}
+
+.bigbutton{text-align: center;}
+.thebutton{border: solid white; background-color: white;}
